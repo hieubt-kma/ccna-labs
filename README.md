@@ -2,7 +2,7 @@
 
 This repository contains my CCNA study notes and Packet Tracer labs.
 
-I use this repository to practice networking fundamentals, document what I learn, and track my progress while studying CCNA.
+I use this repository to practice networking fundamentals, document what I learn.
 
 ## Learning Resource
 

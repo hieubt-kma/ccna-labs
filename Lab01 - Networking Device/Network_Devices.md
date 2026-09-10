@@ -1,5 +1,5 @@
 # Lab 01 - Networking Devices
-- Mạng máy tính là một hệ thống kết nối các thiết bị, cho phép chúng giao tiếp và chia sẻ tài nguyên với nhau 
+- Mạng máy tính là một mạng viễn thông số cho phép các nút (node) mạng chia sẻ tài nguyên.
 
 - Node mạng: là một thiết bị hay điểm kết nối tham gia vào mạng
 ![Node mạng](Images/image2.png)
@@ -23,6 +23,7 @@ Server và Client: được gọi là thiết bị đầu cuối (end hosts/endp
 - Switch có nhiều giao diện mạng/cổng (interfaces/ports) để các end host như PC, Server hoặc máy in kết nối vào, thường có 24 cổng hoặc nhiều hơn.
 
 - Switch dùng để chuyển tiếp lưu lượng trong cùng một mạng LAN.
+
 
 - Switch cung cấp khả năng kết nối giữa các thiết bị trong cùng một mạng LAN.
 
